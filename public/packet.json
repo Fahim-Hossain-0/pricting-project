@@ -1,0 +1,68 @@
+{
+  "pricingOptions": [
+    {
+      "id": 1,
+      "name": "Basic",
+      "option": "Essential gym access",
+      "title": "Basic Plan",
+      "price": "$29",
+      "period": "per month",
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "Free parking",
+        "Open 5 AM - 9 PM",
+        "1 personal training session per month",
+        "Access to group classes (limited)"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "option": "Group classes & nutrition",
+      "title": "Standard Plan",
+      "price": "$49",
+      "period": "per month",
+      "features": [
+        "All Basic Plan benefits",
+        "Unlimited group classes",
+        "Nutrition consultation",
+        "Open 24/7",
+        "3 personal training sessions per month",
+        "Free gym merchandise (welcome kit)"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "option": "Full gym experience",
+      "title": "Premium Plan",
+      "price": "$79",
+      "period": "per month",
+      "features": [
+        "All Standard Plan benefits",
+        "Private locker",
+        "Sauna & spa access",
+        "5 personal training sessions per month",
+        "Monthly fitness assessment",
+        "Priority booking for classes"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Annual",
+      "option": "Yearly savings plan",
+      "title": "Annual Membership",
+      "price": "$499",
+      "period": "per year",
+      "features": [
+        "All Premium Plan benefits",
+        "Discounted personal training packages",
+        "Guest passes (5 per year)",
+        "1 free personal trainer for first month",
+        "Exclusive members-only events",
+        "Special discounts on gym products"
+      ]
+    }
+  ]
+}
